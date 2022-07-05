@@ -1,0 +1,112 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.landingpage {
+    background: rgba(159, 190, 211, 0.741);
+}
+
+.img-home {
+    margin-top: 5px;
+    margin-right: 50px;
+}
+
+h1 {
+    color: #68e1fe;
+    font-size: 2.5rem;
+    line-height: 1.6;
+    letter-spacing: -0.05em;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.frmLogin {
+    width: auto;
+    height: 300px;
+    padding: 20px;
+    background-color: rgba(101, 166, 216, 0.967);
+    border-radius: 30px;
+    box-shadow: 20px 8px 43px -8px rgba(0, 0, 0, 0.71);
+    color: white;
+}
+
+#aceptarlog {
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+.imglog {
+    width: 70%;
+    height: 70%;
+}
+
+.imglog2 {
+    width: 50%;
+    height: 70%;
+}
+
+.form-label {
+    color: blue;
+    font-weight: bold;
+}
+
+.titulo-log {
+    background-color: rgb(24, 153, 6);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.vision {
+    background-color: rgb(59, 96, 124);
+    border-radius: 25px;
+    color: white;
+    margin: 20px;
+    padding: 30px;
+}
+
+.bad {
+    background-color: red;
+    margin-top: 120px;
+}
+
+.escudo {
+    width: 50px;
+    height: 50px;
+}
+
+thead {
+    background-color: #4ea7ca;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.titulos {
+    border: #6aa1dc solid;
+    color: blue;
+    border-radius: 10px;
+    background-color: white;
+    width: 40%;
+    padding: 10px;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.close-session {
+    border: solid blueviolet;
+    border-radius: 10px;
+}
+
+.close-session:hover {
+    background-color: blueviolet;
+    color: #ffffff !important;
+}
+
+.modificar {
+    color: blueviolet;
+}
